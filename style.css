@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f5ed;
+    color: #263b2b;
+    margin: 0;
+}
+
+header, footer {
+    background-color: #28543a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    margin: 8px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+.banner {
+    width: 600px;
+    max-width: 100%;
+}
+
+.card {
+    display: inline-block;
+    background-color: white;
+    border: 1px solid #b8c8b6;
+    width: 220px;
+    max-width: 90%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.card img {
+    width: 100%;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    line-height: 1.8;
+}
